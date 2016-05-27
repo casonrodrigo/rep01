@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rodrigo.cason\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_962289b91ce05188bcd6a75b29ebb274a937fab8.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_eb89ee04976ee742d9f6eda2282518b2ff7ba780.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_82375907563b8b98bee89100b61a1b0b9f386b75.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\zbar_651547517433258b8f7eecba9c0b17e92cd4074c.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.2\89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1\androidannotations-api-3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.2_9bfc6386ddcbe213af12f98f92dd67d794c1a217.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.0.1\9ebf6cd580d67601fbf88fd007aab4703b19e4c2\core-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\core-3.0.1_45bc413eb0f5281e8dd19a56912229d191441edc.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_96d9875c2682cdadab21db2526175ed2bc9108b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_509625dafb85d2861320ab7b413fc358843d7f78.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_f3996ab0d8e2d0ca3b445f585913628bfb9496f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_5dcdc33197b2fc57467852af63442a0146538dbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_d4e0ab40f84c1842fdd73a3bb49b35d27a9e397a.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.embarkmobile\zxing-android-integration\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="32c0545546faa0e65a67bba8abc072b1aef5b136">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.embarkmobile-zxing-android-integration-2.0.0_6f19e11e3ff51d8a19592bbe1a72ef159ce4f8ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\exploded-aar\com.embarkmobile\zxing-android-minimal\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb9bbd4a4737c5d1720f03efe7de98df3a924ef1">
+        <dex dex="C:\Users\rodrigo.cason\Desktop\LadoA\Projetos\Teste\app\build\intermediates\pre-dexed\debug\com.embarkmobile-zxing-android-minimal-2.0.0_5e93c9c35be0556d41310783944e9b69fa5eac9f.jar" />
+    </item>
+
+</items>
